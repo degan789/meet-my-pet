@@ -1,2 +1,1 @@
-# meet-my-pet
-html css bootstrap
+TinDog Starting Files
